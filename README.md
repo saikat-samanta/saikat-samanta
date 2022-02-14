@@ -5,11 +5,11 @@
 
 <!-- Typing SVG by saikat-samanta - https://github.com/saikat-samanta/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;UI%2FUX%20Designer;2%2B%20years%20of%20web%20development%20experience;Always%20learning%20new%20things&center=true&width=480&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;UI%2FUX%20Designer;2%2B%20years%20of%20web%20development%20experience&center=true&width=480&height=45"></a>
 </p>
 
 ----
-- 👋 Hi, I’m @saikat-samanta
+- 👋 Hi, I’m saikat
 - 👀 I’m interested in React.js, React native, Next.js, Nodejs, mongoDB, Postgres SQL, Redux and docker...
 - 🌱 I’m currently learning Flutter...
 - 💞️ I’m looking to collaborate on my next Flutter project
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="saikat samanta's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=saikat-samanta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="saikat-samanta's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=saikat-samanta&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="saikat-samanta's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=saikat-samanta&count_private=true&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
