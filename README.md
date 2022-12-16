@@ -8,18 +8,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;UI%2FUX%20Designer;2%2B%20years%20of%20web%20development%20experience&center=true&width=480&height=45"></a>
 </p>
 
-----
-- 👋 Hi, I’m saikat
-- 👀 I’m interested in React.js, React native, Next.js, Nodejs, mongoDB, Postgres SQL, Redux and docker...
-- 🌱 I’m currently learning Flutter...
-- 💞️ I’m looking to collaborate on my next Flutter project
-- 📫 How to reach me: saikatsamanta737@gmail.com
+---
+![Metrics](https://metrics.lecoq.io/saikat-samanta?template=classic&base.indepth=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta&config.display=large)
 
-<!---
-saikat-samanta/saikat-samanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-----
+---
+![Metrics](https://metrics.lecoq.io/saikat-samanta?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=12&config.timezone=Asia%2FCalcutta)
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/saikat-samanta/github-readme-streak-stats -->
