@@ -44,4 +44,4 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=saikat-samanta&bg_color=e3e3e3&color=aa46a3&line=b87fb5&point=403d3d&area=true&hide_border=true"><img alt="saikat samanta's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=saikat-samanta&bg_color=e3e3e3&color=aa46a3&line=b87fb5&point=403d3d&area=true&hide_border=true" /></a>
+<a href="https://github-readme-activity-graph.cyclic.app/graph?username=saikat-samanta&theme=dracula"><img alt="saikat samanta's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=saikat-samanta&theme=dracula" /></a>
