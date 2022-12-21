@@ -9,12 +9,15 @@
 </p>
 
 ---
-![Metrics](https://metrics.lecoq.io/saikat-samanta?template=classic&base.indepth=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta&config.display=large)
+
+![intro](./assets/saikat_intro.svg)
 
 ---
-![Metrics](https://metrics.lecoq.io/saikat-samanta?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
+
+![achievements](./assets/saikat_achievements.svg)
 
 ---
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/saikat-samanta/github-readme-streak-stats -->
@@ -24,7 +27,7 @@
   </a>
 </p>
 
-----
+---
 
 ## 📊 Github stats
 
@@ -39,4 +42,5 @@
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 <a href="https://github-readme-activity-graph.cyclic.app/graph?username=saikat-samanta&theme=dracula"><img alt="saikat samanta's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=saikat-samanta&theme=dracula" /></a>
