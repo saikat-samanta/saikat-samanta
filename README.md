@@ -11,13 +11,13 @@
 ---
 
 <picture>
-  <img src="./assets/saikat_intro.svg" alt="intro">
+  <img src="./assets/saikat_intro.png" alt="intro">
 </picture>
 
 ---
 
 <picture>
-  <img src="./assets/saikat_achievements.svg" alt="achievements">
+  <img src="./assets/saikat_achievements.png" alt="achievements">
 </picture>
 
 ---
