@@ -10,11 +10,11 @@
 
 ---
 
-![intro](./assets/saikat_intro.svg)
+![intro](./assets/saikat_intro.png)
 
 ---
 
-![achievements](./assets/saikat_achievements.svg)
+![achievements](./assets/saikat_achievements.png)
 
 ---
 

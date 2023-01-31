@@ -15,14 +15,14 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           config_timezone: Asia/Kolkata
-          filename: assets/saikat_intro.svg
+          filename: assets/saikat_intro.png
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
       - uses: lowlighter/metrics@latest
         with:
           config_timezone: Asia/Kolkata
-          filename: assets/saikat_achievements.svg
+          filename: assets/saikat_achievements.png
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
