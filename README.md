@@ -10,11 +10,15 @@
 
 ---
 
-![intro](./assets/saikat_intro.svg)
+<picture>
+  <img src="./assets/saikat_intro.svg" alt="intro">
+</picture>
 
 ---
 
-![achievements](./assets/saikat_achievements.svg)
+<picture>
+  <img src="./assets/saikat_achievements.svg" alt="achievements">
+</picture>
 
 ---
 
