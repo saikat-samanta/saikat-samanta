@@ -48,4 +48,4 @@
 <br/>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=saikat-samanta&theme=dracula"><img alt="saikat samanta's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=saikat-samanta&theme=dracula" /></a>
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=saikat-samanta&theme=dracula"><img alt="saikat samanta's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saikat-samanta&theme=dracula" /></a>
