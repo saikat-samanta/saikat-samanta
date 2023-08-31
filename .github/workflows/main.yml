@@ -24,6 +24,10 @@ jobs:
           plugin_lines: yes
       - uses: lowlighter/metrics@latest
         with:
+          config_timezone: Asia/Kolkata
+          config_display: large
+          optimize: css,xml,svg
+          experimental_features: --optimize-svg
           filename: assets/saikat_achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
