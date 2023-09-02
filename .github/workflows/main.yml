@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@96dde98a034ab75fec7884f9161bc12759275d36
         with:
           config_timezone: Asia/Kolkata
           config_display: large
