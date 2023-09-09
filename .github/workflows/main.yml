@@ -31,6 +31,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
+          user: saikat-samanta
           plugins_errors_fatal: yes
 
       - name: 🏆 Achievements - Detailed display
