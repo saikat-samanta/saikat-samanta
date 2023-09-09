@@ -11,15 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    if: ${{github.repository == 'saikat-samanta/saikat-samanta'}}
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      - name: Checkout examples
-        run: git checkout examples
-
       - name: 🗃️ Base content - Default metrics
         uses: lowlighter/metrics@latest
         with:
