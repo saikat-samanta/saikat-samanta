@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    if: ${{github.repository == 'lowlighter/metrics'}}
+    if: ${{github.repository == 'saikat-samanta/saikat-samanta'}}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
