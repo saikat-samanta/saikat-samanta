@@ -59,7 +59,7 @@ jobs:
         run: |
           set +e
           sudo rm -rf ./assets
-          mkdir -p ./assets
+          sudo mkdir -p ./assets
           sudo mv /metrics_renders/* ./assets
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
