@@ -36,7 +36,7 @@ jobs:
 
       - name: 🏆 Achievements - Detailed display
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@96dde98a034ab75fec7884f9161bc12759275d36
         with:
           filename: saikat_achievements.svg
           user: saikat-samanta
