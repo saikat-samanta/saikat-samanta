@@ -58,7 +58,7 @@ jobs:
         if: ${{ success() || failure() }}
         run: |
           set +e
-          sudo ls /metrics_renders/*
+          sudo mv /metrics_renders/* ./assets
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git pull
