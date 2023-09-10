@@ -13,6 +13,7 @@ jobs:
       contents: write
     steps:
       - name: 🗃️ Base content - Default metrics
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: assets/saikat_intro.svg
@@ -29,6 +30,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: 🏆 Achievements - Detailed display
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: assets/saikat_achievements.svg
@@ -48,6 +50,7 @@ jobs:
           plugins_errors_fatal: yes
 
       - name: Update assets
+        if: ${{ success() || failure() }}
         run: |
           set +e
           git config user.name github-actions[bot]
