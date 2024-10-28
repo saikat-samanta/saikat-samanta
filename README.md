@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by saikat-samanta - https://github.com/saikat-samanta/readme-typing-svg -->
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;UI%2FUX%20Designer;2%2B%20years%20of%20web%20development%20experience&center=true&width=480&height=45"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;UI%2FUX%20Designer;3%2B%20years%20of%20development%20experience&center=true&width=480&height=45"></a>
+  <a href="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;UI%2FUX%20Designer;2%2B%20years%20of%20web%20development%20experience&center=true&width=480&height=45"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;UI%2FUX%20Designer;4%2B%20years%20of%20development%20experience&center=true&width=480&height=45"></a>
 </p>
 
 ---
