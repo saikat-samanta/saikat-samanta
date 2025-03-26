@@ -25,7 +25,7 @@
 ### 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/saikat-samanta/github-readme-streak-stats -->
-<a href="https://git.io/streak-stats">
+<a href="https://streak-stats.demolab.com?user=saikat-samanta&theme=aura&hide_border=true">
   <img src="https://streak-stats.demolab.com?user=saikat-samanta&theme=aura&hide_border=true" alt="GitHub Streak" />
 </a>
 
