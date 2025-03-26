@@ -25,8 +25,8 @@
 ### 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/saikat-samanta/github-readme-streak-stats -->
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=saikat-samanta&theme=monokai-metallian&hide_border=true">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="saikat samanta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saikat-samanta&theme=monokai-metallian&hide_border=true"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=saikat-samanta&theme=aura&hide_border=true" alt="GitHub Streak" />
 </a>
 
 <br/>
